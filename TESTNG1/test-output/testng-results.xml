@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26" started-at="2019-03-15T11:25:21Z" finished-at="2019-03-15T11:25:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26" started-at="2019-03-15T11:25:21Z" finished-at="2019-03-15T11:25:21Z">
+      <class name="testngpack.Demo$TestNGDemo4">
+        <test-method status="PASS" signature="demo()[pri:0, instance:testngpack.Demo$TestNGDemo4@74650e52]" name="demo" duration-ms="7" started-at="2019-03-15T11:25:21Z" finished-at="2019-03-15T11:25:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- testngpack.Demo$TestNGDemo4 -->
+      <class name="testngpack.Demojen$TestNGDemo4">
+        <test-method status="PASS" signature="demo()[pri:0, instance:testngpack.Demojen$TestNGDemo4@4b1c1ea0]" name="demo" duration-ms="1" started-at="2019-03-15T11:25:21Z" finished-at="2019-03-15T11:25:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- testngpack.Demojen$TestNGDemo4 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
